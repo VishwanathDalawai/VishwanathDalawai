@@ -3,7 +3,7 @@
 
 
 - 🔭 I’m currently working with Rupeek fintech
-- 🌱 Currently learning and learning about JS!
+- 🌱 Learning JS!
 - 👨‍💻 Checkout my portfolio website at: [https://vishwanathdalawai.netlify.app/](https://vishwanathdalawai.netlify.app/)
 
 
