@@ -8,7 +8,7 @@
 
 
 <h3 align="left">Languages and Tools:</h3>
-HTML, CSS, JS, React, Redux, Jest, Node, Express, MYSQL, MongoDB
+HTML, CSS, JS, React, Redux, VueJs, Jest, Node, Express, MYSQL, MongoDB
 
 &nbsp;
 
