@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer</h3>
 
 
-- 🔭 I’m currently working with Sony
+- 🔭 I’m currently working with Rupeek fintech
 - 🌱 Currently learning and learning about JS!
 - 👨‍💻 Checkout my portfolio website at: [https://vishwanathdalawai.netlify.app/](https://vishwanathdalawai.netlify.app/)
 
